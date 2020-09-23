@@ -4,9 +4,6 @@
 
 React application to search for your favorite books to read in the future. Users can save the books search to review or purchase at a later time. 
 
-## Deployment
-The application is deployed on heroku: [Mubin's Google Books Search](https://git.heroku.com/google-search-mubin.git)
-
 ## Tech Stack
 
 MVC design patter: Model, View, and Controller
