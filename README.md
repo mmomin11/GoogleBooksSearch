@@ -4,6 +4,8 @@
 
 React application to search for your favorite books to read in the future. Users can save the books search to review or purchase at a later time. 
 
+<img src="client/public/Capture.PNG" height="500px" alt="Card View"/>
+
 ## Tech Stack
 
 MVC design patter: Model, View, and Controller
